@@ -5,7 +5,8 @@ You will also need to download the 'Nerd fort', i am using DroidSansMono Nerd Fo
 .......................
 
 Instructions to run the downloadnerdfont.sh
-
--> cd nordic-starship-toml 
--> chmod +x downloadnerdfont.sh 
--> ./downloadnerdfont.sh
+```
+cd nordic-starship-toml 
+chmod +x downloadnerdfont.sh 
+./downloadnerdfont.sh
+```
