@@ -10,3 +10,7 @@ cd nordic-starship-toml
 chmod +x downloadnerdfont.sh 
 ./downloadnerdfont.sh
 ```
+
+## Credit's
+
+[Starship Pastel Powerline Preset Github](https://github.com/starship/starship/edit/master/docs/presets/pastel-powerline.md)
