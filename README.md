@@ -1,6 +1,6 @@
 # Nordic Starship Pastel Powerline Preset
 
-![Nordic-starship](Nordic-starship.png)
+![Nordic-starship](Nordic-starship)
 
 This is a starship.toml configuration file based on 'Pastel Powerline' preset' i have tried to customise it using Nordic color palette.
 Although i would like to point out the fact that it is not purely based on Nordic theme as i have used two colors from 'Dracula' theme, because i was running short of two colors and the Dracula colors mixed will with Nordic palette.
