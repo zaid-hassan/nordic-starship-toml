@@ -44,13 +44,20 @@ $docker_context\
 [](fg:#5e81ac bg:#6272a4)\
 $time\
 [ ](fg:#6272a4)\
+\n
+$cmd_duration\
+$character\
 """
+#add_newline = false
+
+[line_break]
+disabled = false
 
 [username]
 show_always = true
 style_user = "bg:#2e3440"
 style_root = "bg:#9A348E"
-format = '[  $user ]($style)'
+format = '[ $user ]($style)'
 disabled = false
 
 [os]
@@ -149,7 +156,11 @@ time_format = "%R" # Hour:Minute Format
 style = "bg:#6272a4"
 format = '[  $time ]($style)'
 	
-#[character]
-#success_symbol = '[➜](#6272a4)'
-#error_symbol = '[➜](bold red)'
+[character]
+success_symbol = '[ ➜](#6272a4)'
+error_symbol = '[ ➜](bold red)'
 #style = "bg:#6272a4"
+
+[cmd_duration]
+min_time = 500
+format = ' [$duration](#6272a4)'
