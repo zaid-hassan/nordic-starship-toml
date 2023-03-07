@@ -1,6 +1,8 @@
 # Nordic Starship Pastel Powerline Preset
 
+### Nordic starship 1
 ![Nordic-starship](Nordic-starship)
+### Nordic starship 2 (Current)
 ![Nordic-starship](Nordic-starship2)
 
 This is a starship.toml configuration file based on 'Pastel Powerline' preset' i have tried to customise it using Nordic color palette.
